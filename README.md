@@ -19,5 +19,7 @@ i have to thank Siguza from the macosxbook forum for his help in porting certain
 and of course my dawg @reddogmedia for his incredibly useful insight, which iced the driver and made it rock stable (after it gets past initialisation).
 
 ![Image of driver detection](https://raw.githubusercontent.com/i3roly/C-Media/master/info.png)
+
 ![Image of driver detection](https://raw.githubusercontent.com/i3roly/C-Media/master/STHPfunctionality.gif)
+
 ![Image of driver detection](https://raw.githubusercontent.com/i3roly/C-Media/master/spdif_analog_run.gif)
