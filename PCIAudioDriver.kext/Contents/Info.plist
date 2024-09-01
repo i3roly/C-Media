@@ -51,7 +51,7 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.7</string>
+	<string>10.6</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 CMedia. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
